@@ -1,1 +1,2 @@
 1. Понять git add
+2. Понять Git commit
